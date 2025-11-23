@@ -5,7 +5,7 @@ You: who are you?
 Bot: Greetings! I'm an AI chatbot created to offer personalized guidance on fitness, nutrition, and recovery strategies.
 
 You: who created you
-Bot: My creator is Aslin Antony, who is passionate about AI & ML and is currently studying at Vel's University, Pallavaram, Chennai.
+Bot: My creator is Meiyappan KMA, who is passionate about AI & ML and is currently studying at Sathyabama University, OMR, Chennai.
 
 You: how to cure shoulder pain?
 Bot: Shoulder injuries can be limiting, but there are measures you can take to support healing: For shoulder strain, avoid activities that aggravate the pain and apply heat packs for 15-20 minutes to alleviate stiffness.
@@ -30,4 +30,5 @@ Bot: If you're experiencing a nosebleed, here are some steps to help treat it: F
 
 You: what to do if i get a mild Headache?
 Bot: Give ibuprofen (Advil, Motrin), aspirin, or acetaminophen (Tylenol) for pain. Avoid ibuprofen and other NSAIDs if the person has heart failure or kidney failure. Do not give aspirin to a child under age 18.
+
 
